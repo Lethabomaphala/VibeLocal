@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibeLocal</string>
+    <string name="tagline">Bona se se diragalang gaufi le wena.</string>
+    <string name="home">Gae</string>
+    <string name="search">Batla</string>
+    <string name="saved">Tse di bolokilweng</string>
+    <string name="profile">Porofaele</string>
+    <string name="discover">Bona</string>
+    <string name="nearby_events">Ditiragalo tse di gaufi</string>
+    <string name="recommended">Tse re go akanyetsang</string>
+    <string name="vibe_match">Vibe Match</string>
+    <string name="see_all">Bona tsotlhe</string>
+    <string name="login">Tsena</string>
+    <string name="register">Bula akhaonto</string>
+    <string name="create_account">Bula akhaonto</string>
+    <string name="full_name">Leina le le feletseng</string>
+    <string name="email">Aterese ya imeile</string>
+    <string name="password">Phasewete</string>
+    <string name="confirm_password">Netefatsa phasewete</string>
+    <string name="forgot_password">O lebetse phasewete?</string>
+    <string name="continue_text">Tswelela</string>
+    <string name="select_interests">Tlhopha dilo tse o di ratang</string>
+    <string name="interest_subtitle">Tlhopha dikarolo tse di tla dirang gore ditshupiso tsa gago di nne tsa botho.</string>
+    <string name="get_started">Simolola</string>
+    <string name="filters">Dikgetho</string>
+    <string name="category">Karolo</string>
+    <string name="date">Letlha</string>
+    <string name="price">Tlhwatlhwa</string>
+    <string name="distance">Bokgakala</string>
+    <string name="location">Lefelo</string>
+    <string name="apply_filters">Dirisa dikgetho</string>
+    <string name="save_event">Boloka tiragalo</string>
+    <string name="share_event">Abelana tiragalo</string>
+    <string name="notifications">Dikitsiso</string>
+    <string name="settings">Dipeakanyo</string>
+    <string name="language">Puo</string>
+    <string name="theme">Ponalo</string>
+    <string name="notification_preferences">Dipeakanyo tsa dikitsiso</string>
+    <string name="logout">Tswa</string>
+</resources>
